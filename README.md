@@ -1,1 +1,2 @@
-# ns3-test
+# Double Linked List 
+# It is a Data Structure having the nodes and each nodes are connected via link{node Contain: 1)Data part,2)link(which is pointer to the next node)2.a)link to next node. 2.b).link to previous node. Our program is doing all the doubly linked list operation such as insert at {beggining,End,Middle},Delete at{beggining,End,Middle} and show function which will show the currently present nodes in the doubly_linked_list.As the doubly linked list contain two pointer,here we denoted them by using prev,and next pointer. Also the output of the program is menu driven hence we can easily check the program working if we have knowlege of doubly linked list.
